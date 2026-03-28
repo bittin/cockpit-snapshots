@@ -15,15 +15,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-02 11:26+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-03-29 07:04+0000\n"
+"Last-Translator: David D <dadu042@mailo.com>\n"
+"Language-Team: French <https://l10n.opensuse.org/projects/cockpit/cockpit-"
+"snapshots/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Cockpit manifest2po\n"
+"X-Generator: Weblate 5.16.2\n"
 
 #: org.opensuse.cockpit_snapshots.metainfo.xml:6
 #: org.opensuse.cockpit_snapshots.metainfo.xml:8
@@ -36,11 +37,11 @@ msgstr ""
 
 #: src/snapshot_diff.tsx:198
 msgid "Added Files"
-msgstr ""
+msgstr "Fichiers ajoutés"
 
 #: src/snapshot_diff.tsx:174
 msgid "Added Packages"
-msgstr ""
+msgstr "Paquets ajoutés"
 
 #: src/index.html:20
 msgid "Cockpit Snapshots"
@@ -49,7 +50,7 @@ msgstr ""
 #: src/compare_dialog.tsx:38 src/compare_dialog.tsx:72 src/dashboard.tsx:68
 #: src/snapshot_diff.tsx:230
 msgid "Compare Snapshots"
-msgstr ""
+msgstr "Comparer instantanés"
 
 #: src/snapshot_diff.tsx:168
 msgid "Downgraded Packages"
@@ -57,15 +58,15 @@ msgstr ""
 
 #: src/snapshot_diff.tsx:187
 msgid "Modified Files"
-msgstr ""
+msgstr "Fichiers modifiés"
 
 #: src/snapshot_diff.tsx:160
 msgid "No changes found"
-msgstr ""
+msgstr "Aucun changement trouvé"
 
 #: src/compare_dialog.tsx:46 src/compare_dialog.tsx:59
 msgid "Please select a value"
-msgstr ""
+msgstr "Veuillez sélectionner une valeur"
 
 #: src/dashboard.tsx:41
 msgid "Reboot"
@@ -73,11 +74,11 @@ msgstr ""
 
 #: src/snapshot_diff.tsx:204
 msgid "Removed Files"
-msgstr ""
+msgstr "Fichiers retirés"
 
 #: src/snapshot_diff.tsx:180
 msgid "Removed Packages"
-msgstr ""
+msgstr "Paquets retirés"
 
 #: src/dashboard.tsx:147
 msgid "Rollback to post"
@@ -102,20 +103,20 @@ msgstr ""
 #: src/dashboard.tsx:126 src/snapshot_diff.tsx:220 src/snapshot_diff.tsx:234
 #: src/manifest.json:0 org.opensuse.cockpit_snapshots.metainfo.xml:5
 msgid "Snapshots"
-msgstr ""
+msgstr "Instantanés"
 
 #: src/dashboard.tsx:35
 msgid "There was an error"
-msgstr ""
+msgstr "Une erreur est survenue"
 
 #: src/snapshot_diff.tsx:162
 msgid "Updated Packages"
-msgstr ""
+msgstr "Paquets mis à jour"
 
 #: src/compare_dialog.tsx:54
 msgid "With"
-msgstr ""
+msgstr "Avec"
 
 #: src/dashboard.tsx:80
 msgid "sndiff is not installed"
-msgstr ""
+msgstr "Sndiff n’est pas installé"
